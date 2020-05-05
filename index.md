@@ -35,11 +35,11 @@ It's my git_web_page[jee](https://github.com/jeeseongmin/jeeseongmin.github.io).
 
 ~~~ yml
 # Site settings
-title: "gjuniioor"
+title: "Jee_git"
 bye_message: "Thx!"
-baseurl: "/clyell/"
-url: "https://gjuniioor.github.io"
-disqus: gjuniioor
+baseurl: ""
+url: "https://jeeseongmin.github.io"
+disqus: jeeseongmin
 
 # Header settings
 nick: "Jee"
