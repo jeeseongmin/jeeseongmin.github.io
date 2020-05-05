@@ -46,3 +46,5 @@ remote_theme : mmistakes/minimal-mistakes
 
 #url: "http://127.0.0.1:4000"
 #imgrepo: "http://127.0.0.1:4000/static/img"
+
+theme: jekyll-theme-architect
