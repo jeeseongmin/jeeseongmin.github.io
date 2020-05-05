@@ -1,7 +1,7 @@
 # Site settings
-title: "gjuniioor"
+title: "Jee_Git"
 bye_message: "Thx!"
-baseurl: "/clyell/"
+baseurl: ""
 url: "https://jeeseongmin.github.io"
 remote_theme : "mmistakes/minimal-mistakes"
 baseurl : ""
