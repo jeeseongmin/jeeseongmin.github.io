@@ -39,9 +39,10 @@ gitment:
     client_id: a6fb73b3e790e234bab8
     client_secret: cc10aaff53a03d05ab2ee002dbf401dd7627c7a3
 
-url: "https://bit-ranger.github.io/blog"
+url: "https://jeeseongmin.github.io"
+base_url : ""
 imgrepo: "https://bit-ranger.github.io/blog/static/img"
-
+remote_theme : mmistakes/minimal-mistakes
 
 #url: "http://127.0.0.1:4000"
 #imgrepo: "http://127.0.0.1:4000/static/img"
