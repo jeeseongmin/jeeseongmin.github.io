@@ -2,13 +2,13 @@
 layout: content
 ---
 
-# Clyell
+# Main 
 
 [https://gjuniioor.github.io/clyell](https://gjuniioor.github.io/clyell)
 
 ### About
 
-It's just one more [jekyll](https://github.com/jekyll/jekyll) theme. Maybe it's has some appearance like a linux console. :)
+It's my git_web_page[jee](https://github.com/jeeseongmin/jeeseongmin.github.io). It has completed design. I'll add various text and design for page.:)
 
 [Bootstrap](http://getbootstrap.com/) was added to turn responsible. Thanks, [@magnunleno](https://github.com/magnunleno).
 
@@ -42,13 +42,13 @@ url: "https://gjuniioor.github.io"
 disqus: gjuniioor
 
 # Header settings
-nick: "gjuniioor"
+nick: "Jee"
 mail:
-    domain: "protonmail"
+    domain: "github.com/jeeseongmin"
     ext: "ch"
 source_code:
-    server: "github.com"
-    nick: "gjuniioor"
+    server: "github.com/jeeseongmin/jeeseongmin.github.io"
+    nick: "jee"
 blog:
     server: "wordpress.com"
     nick: "gjuniioor"
